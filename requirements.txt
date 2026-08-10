@@ -1,6 +1,0 @@
-fastapi>=0.116
-uvicorn[standard]>=0.35
-requests>=2.32
-pandas>=2.2
-numpy>=1.26
-python-multipart>=0.0.20
